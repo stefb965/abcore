@@ -232,3 +232,8 @@ defaults:
     values:
       layout: page
       type: releases
+
+description: ABCore - Android Bitcoin Core
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
